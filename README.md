@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/vanya-atanasova-483247236/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=AtanasovaVanya&style=flat-square&color=blue" alt=""/>
   </div>
 
