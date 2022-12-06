@@ -14,8 +14,8 @@
 ### :woman_technologist: About Me :
 
 - 👀 I’m interested in programming, self-growth and dogs.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate with other developers and on any Open Source Projects involving JavaScript.
+- 📚 I’m currently learning JavaScript.
+- 👩🏻‍💻 I’m looking to collaborate with other developers and on any Open Source Projects involving JavaScript.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
