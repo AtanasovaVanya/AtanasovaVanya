@@ -14,7 +14,7 @@
 ### :woman_technologist: About Me :
 
 - 👀 I’m interested in programming, self-growth and dogs.
-- 📚 I’m currently learning JavaScript.
+- 📚 I’m currently learning Front-End Web Development.
 - 👩🏻‍💻👨🏽‍💻 I’m looking to collaborate with other developers and on any Open Source Projects involving JavaScript.
 ---
 
